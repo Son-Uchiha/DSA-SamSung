@@ -1,1 +1,0 @@
-{"name":"Local: DSA_P400","url":"g:\\DSA_Samsung\\0. Sort\\DSA_P400.cpp","tests":[{"id":1753424367749,"input":"2\n\n4\n\n5 7 1 4\n\n7\n\n123 456 100 989 444 1111 90\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\DSA_Samsung\\0. Sort\\DSA_P400.cpp","group":"local","local":true}
