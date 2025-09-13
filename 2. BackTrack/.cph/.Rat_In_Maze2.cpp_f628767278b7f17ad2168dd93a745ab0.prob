@@ -1,0 +1,1 @@
+{"name":"Local: Rat_In_Maze2","url":"g:\\DSA_Samsung\\2. BackTrack\\Rat_In_Maze2.cpp","tests":[{"id":1753949982310,"input":"3\n1 1 1  \n1 1 0 \n1 1 1\n","output":"DDRR\nDRDR\nRDDR\nRDLDRR\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\DSA_Samsung\\2. BackTrack\\Rat_In_Maze2.cpp","group":"local","local":true}
